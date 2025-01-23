@@ -48,8 +48,7 @@ Follow these steps to view and interact with the dashboard:
 ## **Folder Structure**
 
 ```plaintext
-.
-├── Data/                      # Raw sales data (if applicable)
+
 ├── Screenshots/               # Dashboard screenshots
 ├── Interactive-Sales-Dashboard.pbix  # Power BI file
 └── README.md                  # Project documentation
